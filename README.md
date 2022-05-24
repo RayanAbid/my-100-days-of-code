@@ -17,5 +17,5 @@
 **Thoughts** The topics are getting tougher. Learning some advanced concepts that I use to just leave. Learned how to make sperate files. How to use require and usage of storage.
 
 **Link(s) to work**
-1. [Crypto Zombies Chapter 7](https://cryptozombies.io/en/lesson/2/chapter/7)
+1. [Crypto Zombies lesson 7 Chapter 2](https://cryptozombies.io/en/lesson/2/chapter/7)
 
