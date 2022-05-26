@@ -30,4 +30,12 @@
 1. [Crypto Zombies lesson 11 Chapter 2](https://cryptozombies.io/en/lesson/2/chapter/11)
 
 
+### Day 4: May 26, 2022, Thursday 
+
+**Today's Progress**: Went through the react native style docs to better understand flexbox. 
+
+**Link(s) to work**
+1. [https://reactnative.dev/docs/flexbox](https://reactnative.dev/docs/flexbox)
+
+
 
