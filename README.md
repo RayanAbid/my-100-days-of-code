@@ -38,4 +38,22 @@
 1. [https://reactnative.dev/docs/flexbox](https://reactnative.dev/docs/flexbox)
 
 
+### Day 5: May 27, 2022, Firday 
+
+**Today's Progress**: dived a little bit deeper react native css.
+
+### Day 6: May 28, 2022, Saturday 
+
+**Today's Progress**: Started chat app using PERN stack.
+
+### Day 7: May 30, 2022, Monday 
+
+**Today's Progress**: Continuing CryptoZombies 
+
+### Day 8: May 31, 2022, Teusday 
+
+**Today's Progress**: Continuing CryptoZombies 
+
+
+
 
