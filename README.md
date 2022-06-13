@@ -54,6 +54,10 @@
 
 **Today's Progress**: Continuing CryptoZombies 
 
+### Day9 
+
+**Today's Progress**: Started Intro to blockchain course on free code camp
+
 
 
 
